@@ -6,6 +6,7 @@ Process mining tools such as Disco for event log filtering and visualization.
 Python, primarily for data filtering and analysis.
 Process mining algorithms like Petri nets, ILP Miner, Heuristic Miner, and BPMN.
 Google Colab for code execution and result visualization.
+
 Key Learnings:
 
 -How to apply process mining techniques to real-world datasets, focusing on compliance analysis.
